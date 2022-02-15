@@ -1,0 +1,53 @@
+.main {
+  background-color: rgb(212, 203, 203);
+}
+.section-one {
+  height: 300px;
+  width: 100%;
+  border-radius: 5px;
+  background-color: rgb(192, 181, 181);
+}
+.section-two {
+  height: 300px;
+  width: 100%;
+  border-radius: 5px;
+  background-color: rgb(192, 181, 181);
+}
+
+/* footer css */
+.bg-footer {
+  background-color: rgb(120, 43, 246);
+  color: rgb(242, 242, 255);
+  height: 625px;
+}
+
+.footer-first {
+  /* display: grid;
+  grid-template-columns: repeat(3, 1fr); */
+  height: 185px;
+}
+.first-first {
+  /* width: 420px; */
+  height: 180px;
+  border: 2px solid white;
+}
+.first-second {
+  width: 210px;
+  height: 170px;
+  background-color: white;
+  /* padding: 0px 20px; */
+}
+.first-third {
+  /* width: 800px; */
+}
+
+.footer-second {
+  height: 150px;
+  border: 1px solid white;
+}
+
+.footer-last {
+  background-color: white;
+  width: 50px;
+  height: 45px;
+}
